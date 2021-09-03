@@ -1,10 +1,10 @@
 ## NGEBUG KEK ELU OTAKNYA
 <p align="center">
-<img src="https://github.com/XChillDs/hmm/blob/main/pfft.jpg" width="128" height="128"/>
+<img src=" https://telegra.ph/file/b61cf26374435f6f7ac7d.jpg" width="720" height="720"/>
 </p>
 ## SIMPEL SCAN BOT TANPA TERMUX RDP CUKUP BROUSER BAWAAN DAN 2 HP UNTUK SCAN
-
-## TUTORNYA 1 :  1. click dibawah 2.tekan tombol play 3.tunggu 4.scan
+kami
+## TUTORNYA 1 : 1. klik di bawah 2.tekan tombol play 3.tunggu 4.scan
 
 ## TUTOR 2 KALO 1 ERROR MANUAL : 1.klik play dulu kalo error ketik (cd-cd wabot-npm install-npm start)
 
