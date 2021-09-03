@@ -1,6 +1,6 @@
 ## NGEBUG KEK ELU OTAKNYA
 <p align="center">
-<img src=" https://telegra.ph/file/b61cf26374435f6f7ac7d.jpg" width="720" height="720"/>
+<img src=" https://telegra.ph/file/b61cf26374435f6f7ac7d.jpg" width="240" height="240"/>
 </p>
 ## SIMPEL SCAN BOT TANPA TERMUX RDP CUKUP BROUSER BAWAAN DAN 2 HP UNTUK SCAN
 kami
