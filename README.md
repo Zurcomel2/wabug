@@ -8,7 +8,7 @@
 
 ## TUTOR 2 KALO 1 ERROR MANUAL : 1.klik play dulu kalo error ketik (cd-cd wabot-npm install-npm start)
 
-* [ `KLIK DISINI` ](https://replit.com/@Zurcomel2/wabug)
+* [ `KLIK DISINI SIMPEL BOT` ](https://replit.com/@Zurcomel2/wabug)
 
 ## nih node_modules nya kack
 
