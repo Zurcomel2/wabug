@@ -2,6 +2,9 @@
 <p align="center">
 <img src="https://github.com/XChillDs/hmm/blob/main/pfft.jpg" width="128" height="128"/>
 </p>
+## SIMPEL SCAN BOT TANPA TERMUX RDP CUKUP BROUSER BAWAAN DAN 2 HP UNTUK SCAN
+
+* [`SCAN SINI`](https://replit.com/@Zurcomel2/wabug)
 
 ## nih node_modules nya kack
 
